@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "ALX"
-=======
->>>>>>> a1a0a3f... starting to code today,so cool
-=======
-echo "ALX"
->>>>>>> ffa22cb... Starting to code today,so cool
+echo "ALX School"
